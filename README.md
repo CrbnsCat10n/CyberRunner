@@ -5,6 +5,8 @@ CyberRunner is a cross-platform replay tool. It provides one binary with two fro
 - GUI: launch without arguments.
 - CLI: launch with `--cli` or a subcommand.
 
+**Warning:** There is no need for you to share this project on social media.
+
 The business logic lives in the core library under `src/` and is shared by both frontends. The CLI driver is `src/main.rs`; the GUI driver is `src/gui.rs`.
 
 ## Features
@@ -95,8 +97,8 @@ Prepare shell variables:
 
 ```bash
 export APP="./target/release/cyber-runner"
-export BASE_URL="https://ty.tongji.edu.cn/msports"
-export TJ_TOKEN="your_token_here"
+export BASE_URL="https://.../msports"
+export TOKEN="your_token_here"
 export LOGIN_NAME="your_login_name_here"
 ```
 
@@ -105,7 +107,7 @@ export LOGIN_NAME="your_login_name_here"
 CyberRunner does not perform login. Pass an existing token:
 
 ```bash
---authorization "$TJ_TOKEN"
+--authorization "$TOKEN"
 ```
 
 You may pass either:
@@ -127,7 +129,7 @@ CyberRunner normalizes token-only values to `Bearer xxxxx`.
 ```bash
 $APP fetch-venues \
   --base-url "$BASE_URL" \
-  --authorization "$TJ_TOKEN" \
+  --authorization "$TOKEN" \
   --token-query \
   --out CyberRunner/output/health_run_venues.json
 ```
@@ -149,7 +151,7 @@ $APP run-count \
   --login-name "$LOGIN_NAME" \
   --semester-id 121 \
   --run-status 0 \
-  --authorization "$TJ_TOKEN"
+  --authorization "$TOKEN"
 ```
 
 Send the request:
@@ -161,7 +163,7 @@ $APP run-count \
   --login-name "$LOGIN_NAME" \
   --semester-id 121 \
   --run-status 0 \
-  --authorization "$TJ_TOKEN"
+  --authorization "$TOKEN"
 ```
 
 ### 4. Preview Replay Packets
@@ -171,7 +173,7 @@ $APP preview \
   --venues-json CyberRunner/output/health_run_venues.json \
   --venue-index 1 \
   --login-name "$LOGIN_NAME" \
-  --authorization "$TJ_TOKEN" \
+  --authorization "$TOKEN" \
   --semester-id 121 \
   --semester-name "2025-2026学年第2学期" \
   --sex 0 \
@@ -203,7 +205,7 @@ $APP replay \
   --venues-json CyberRunner/output/health_run_venues.json \
   --venue-index 1 \
   --login-name "$LOGIN_NAME" \
-  --authorization "$TJ_TOKEN" \
+  --authorization "$TOKEN" \
   --semester-id 121 \
   --semester-name "2025-2026学年第2学期" \
   --sex 0 \
@@ -225,7 +227,7 @@ $APP replay \
   --venues-json CyberRunner/output/health_run_venues.json \
   --venue-index 1 \
   --login-name "$LOGIN_NAME" \
-  --authorization "$TJ_TOKEN" \
+  --authorization "$TOKEN" \
   --semester-id 121 \
   --semester-name "2025-2026学年第2学期" \
   --sex 1 \
