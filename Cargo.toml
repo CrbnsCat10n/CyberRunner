@@ -1,0 +1,33 @@
+[package]
+name = "cyber-runner"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Cross-platform Tongji Sports running replay generator with CLI and egui frontends."
+
+[lib]
+name = "cyber_runner"
+path = "src/lib.rs"
+
+[[bin]]
+name = "cyber-runner"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde"] }
+clap = { version = "4", features = ["derive"] }
+eframe = { version = "0.34", default-features = true }
+egui = "0.34"
+md5 = "0.7"
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "gzip", "deflate", "json", "rustls-tls"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+thiserror = "2"
+url = "2"
+walkers = "0.53"
+
+[profile.release]
+codegen-units = 1
+lto = "thin"
+strip = "symbols"
