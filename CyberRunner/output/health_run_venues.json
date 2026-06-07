@@ -1,0 +1,4759 @@
+{
+  "authorizationProvided": true,
+  "baseUrl": "https://ty.tongji.edu.cn/msports",
+  "fetchedAt": "2026-06-06 21:26:55",
+  "healthRunningPlaceCount": 10,
+  "healthRunningPlaces": [
+    {
+      "campusName": "南校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.279375,
+          "longitude": 121.497329
+        },
+        {
+          "latitude": 31.280702,
+          "longitude": 121.497864
+        },
+        {
+          "latitude": 31.280526,
+          "longitude": 121.498715
+        },
+        {
+          "latitude": 31.28035,
+          "longitude": 121.498876
+        },
+        {
+          "latitude": 31.279383,
+          "longitude": 121.498358
+        },
+        {
+          "latitude": 31.279172,
+          "longitude": 121.497927
+        }
+      ],
+      "locationList": [
+        "121.497329,31.279375",
+        "121.497864,31.280702",
+        "121.498715,31.280526",
+        "121.498876,31.28035",
+        "121.498358,31.279383",
+        "121.497927,31.279172"
+      ],
+      "open": false,
+      "openRunTimeListNew": null,
+      "openType": "0,1",
+      "raw": {
+        "campusName": "南校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.279375,
+            "longitude": 121.497329
+          },
+          {
+            "latitude": 31.280702,
+            "longitude": 121.497864
+          },
+          {
+            "latitude": 31.280526,
+            "longitude": 121.498715
+          },
+          {
+            "latitude": 31.28035,
+            "longitude": 121.498876
+          },
+          {
+            "latitude": 31.279383,
+            "longitude": 121.498358
+          },
+          {
+            "latitude": 31.279172,
+            "longitude": 121.497927
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.497329,31.279375",
+          "121.497864,31.280702",
+          "121.498715,31.280526",
+          "121.498876,31.28035",
+          "121.498358,31.279383",
+          "121.497927,31.279172"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [],
+        "openRunTimeListNew": null,
+        "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0,1",
+        "venueId": "2ea31f0b-4e35-471b-b288-15dac2f203ad",
+        "venueName": "南校区足球场",
+        "venueSportType": "足球",
+        "venueUrl": ""
+      },
+      "venueId": "2ea31f0b-4e35-471b-b288-15dac2f203ad",
+      "venueName": "南校区足球场"
+    },
+    {
+      "campusName": "四平校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.280997,
+          "longitude": 121.503907
+        },
+        {
+          "latitude": 31.280748,
+          "longitude": 121.504518
+        },
+        {
+          "latitude": 31.28065,
+          "longitude": 121.504597
+        },
+        {
+          "latitude": 31.280386,
+          "longitude": 121.504577
+        },
+        {
+          "latitude": 31.280199,
+          "longitude": 121.504484
+        },
+        {
+          "latitude": 31.279827,
+          "longitude": 121.504278
+        },
+        {
+          "latitude": 31.279235,
+          "longitude": 121.503929
+        },
+        {
+          "latitude": 31.279304,
+          "longitude": 121.503431
+        },
+        {
+          "latitude": 31.279593,
+          "longitude": 121.5028
+        },
+        {
+          "latitude": 31.280458,
+          "longitude": 121.503366
+        },
+        {
+          "latitude": 31.280942,
+          "longitude": 121.503622
+        }
+      ],
+      "locationList": [
+        "121.503907,31.280997",
+        "121.504518,31.280748",
+        "121.504597,31.28065",
+        "121.504577,31.280386",
+        "121.504484,31.280199",
+        "121.504278,31.279827",
+        "121.503929,31.279235",
+        "121.503431,31.279304",
+        "121.5028,31.279593",
+        "121.503366,31.280458",
+        "121.503622,31.280942"
+      ],
+      "open": false,
+      "openRunTimeListNew": [
+        {
+          "endTime": "01:00",
+          "startTime": "00:00"
+        }
+      ],
+      "openType": "0",
+      "raw": {
+        "campusName": "四平校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.280997,
+            "longitude": 121.503907
+          },
+          {
+            "latitude": 31.280748,
+            "longitude": 121.504518
+          },
+          {
+            "latitude": 31.28065,
+            "longitude": 121.504597
+          },
+          {
+            "latitude": 31.280386,
+            "longitude": 121.504577
+          },
+          {
+            "latitude": 31.280199,
+            "longitude": 121.504484
+          },
+          {
+            "latitude": 31.279827,
+            "longitude": 121.504278
+          },
+          {
+            "latitude": 31.279235,
+            "longitude": 121.503929
+          },
+          {
+            "latitude": 31.279304,
+            "longitude": 121.503431
+          },
+          {
+            "latitude": 31.279593,
+            "longitude": 121.5028
+          },
+          {
+            "latitude": 31.280458,
+            "longitude": 121.503366
+          },
+          {
+            "latitude": 31.280942,
+            "longitude": 121.503622
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.503907,31.280997",
+          "121.504518,31.280748",
+          "121.504597,31.28065",
+          "121.504577,31.280386",
+          "121.504484,31.280199",
+          "121.504278,31.279827",
+          "121.503929,31.279235",
+          "121.503431,31.279304",
+          "121.5028,31.279593",
+          "121.503366,31.280458",
+          "121.503622,31.280942"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [
+          "00:00-01:00"
+        ],
+        "openRunTimeListNew": [
+          {
+            "endTime": "01:00",
+            "startTime": "00:00"
+          }
+        ],
+        "openRunTimeListNewEncryptstr": "5ef35580eb06e31724da31facf612899d87818d315ce2100c7c7d657d3a273b97257032114ff712b03a5a9e3441057a1",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0",
+        "venueId": "aca3c2a7-5d0d-405c-acca-9de9f20684a8",
+        "venueName": "四平校区一.二九田径场",
+        "venueSportType": "田径",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/b21b15fc96e341b2a95d2bb6575e3726.PNG"
+      },
+      "venueId": "aca3c2a7-5d0d-405c-acca-9de9f20684a8",
+      "venueName": "四平校区一.二九田径场"
+    },
+    {
+      "campusName": "嘉定校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.289044,
+          "longitude": 121.21598
+        },
+        {
+          "latitude": 31.288995,
+          "longitude": 121.216083
+        },
+        {
+          "latitude": 31.288968,
+          "longitude": 121.21643
+        },
+        {
+          "latitude": 31.288588,
+          "longitude": 121.216809
+        },
+        {
+          "latitude": 31.287527,
+          "longitude": 121.216004
+        },
+        {
+          "latitude": 31.287593,
+          "longitude": 121.215546
+        },
+        {
+          "latitude": 31.287926,
+          "longitude": 121.215272
+        },
+        {
+          "latitude": 31.287993,
+          "longitude": 121.215184
+        }
+      ],
+      "locationList": [
+        "121.215980,31.289044",
+        "121.216083,31.288995",
+        "121.216430,31.288968",
+        "121.216809,31.288588",
+        "121.216004,31.287527",
+        "121.215546,31.287593",
+        "121.215272,31.287926",
+        "121.215184,31.287993"
+      ],
+      "open": false,
+      "openRunTimeListNew": null,
+      "openType": "0",
+      "raw": {
+        "campusName": "嘉定校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.289044,
+            "longitude": 121.21598
+          },
+          {
+            "latitude": 31.288995,
+            "longitude": 121.216083
+          },
+          {
+            "latitude": 31.288968,
+            "longitude": 121.21643
+          },
+          {
+            "latitude": 31.288588,
+            "longitude": 121.216809
+          },
+          {
+            "latitude": 31.287527,
+            "longitude": 121.216004
+          },
+          {
+            "latitude": 31.287593,
+            "longitude": 121.215546
+          },
+          {
+            "latitude": 31.287926,
+            "longitude": 121.215272
+          },
+          {
+            "latitude": 31.287993,
+            "longitude": 121.215184
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.215980,31.289044",
+          "121.216083,31.288995",
+          "121.216430,31.288968",
+          "121.216809,31.288588",
+          "121.216004,31.287527",
+          "121.215546,31.287593",
+          "121.215272,31.287926",
+          "121.215184,31.287993"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [],
+        "openRunTimeListNew": null,
+        "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0",
+        "venueId": "e35ce361-988c-4af3-ba02-1271aae8ffc4",
+        "venueName": "嘉定校区人工草坪田径场",
+        "venueSportType": "田径",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/2e079be59659485b987ab313f2818809.PNG"
+      },
+      "venueId": "e35ce361-988c-4af3-ba02-1271aae8ffc4",
+      "venueName": "嘉定校区人工草坪田径场"
+    },
+    {
+      "campusName": "沪西校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.272809,
+          "longitude": 121.389004
+        },
+        {
+          "latitude": 31.272803,
+          "longitude": 121.389826
+        },
+        {
+          "latitude": 31.27245,
+          "longitude": 121.389908
+        },
+        {
+          "latitude": 31.27121,
+          "longitude": 121.390124
+        },
+        {
+          "latitude": 31.271076,
+          "longitude": 121.389597
+        },
+        {
+          "latitude": 31.271013,
+          "longitude": 121.388983
+        },
+        {
+          "latitude": 31.271514,
+          "longitude": 121.388874
+        },
+        {
+          "latitude": 31.272426,
+          "longitude": 121.388747
+        }
+      ],
+      "locationList": [
+        "121.389004,31.272809",
+        "121.389826,31.272803",
+        "121.389908,31.272450",
+        "121.390124,31.271210",
+        "121.389597,31.271076",
+        "121.388983,31.271013",
+        "121.388874,31.271514",
+        "121.388747,31.272426"
+      ],
+      "open": false,
+      "openRunTimeListNew": null,
+      "openType": "0",
+      "raw": {
+        "campusName": "沪西校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.272809,
+            "longitude": 121.389004
+          },
+          {
+            "latitude": 31.272803,
+            "longitude": 121.389826
+          },
+          {
+            "latitude": 31.27245,
+            "longitude": 121.389908
+          },
+          {
+            "latitude": 31.27121,
+            "longitude": 121.390124
+          },
+          {
+            "latitude": 31.271076,
+            "longitude": 121.389597
+          },
+          {
+            "latitude": 31.271013,
+            "longitude": 121.388983
+          },
+          {
+            "latitude": 31.271514,
+            "longitude": 121.388874
+          },
+          {
+            "latitude": 31.272426,
+            "longitude": 121.388747
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.389004,31.272809",
+          "121.389826,31.272803",
+          "121.389908,31.272450",
+          "121.390124,31.271210",
+          "121.389597,31.271076",
+          "121.388983,31.271013",
+          "121.388874,31.271514",
+          "121.388747,31.272426"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [],
+        "openRunTimeListNew": null,
+        "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0",
+        "venueId": "606357ff-07ee-4388-ac1a-e98f714e0a6e",
+        "venueName": "沪西校区田径场",
+        "venueSportType": "足球",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/ecb6945e76654e9f8cdeeac70bd2d239.PNG"
+      },
+      "venueId": "606357ff-07ee-4388-ac1a-e98f714e0a6e",
+      "venueName": "沪西校区田径场"
+    },
+    {
+      "campusName": "嘉定校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.289577,
+          "longitude": 121.216345
+        },
+        {
+          "latitude": 31.289425,
+          "longitude": 121.216804
+        },
+        {
+          "latitude": 31.289526,
+          "longitude": 121.21733
+        },
+        {
+          "latitude": 31.290777,
+          "longitude": 121.217414
+        },
+        {
+          "latitude": 31.290964,
+          "longitude": 121.216927
+        },
+        {
+          "latitude": 31.290845,
+          "longitude": 121.216441
+        }
+      ],
+      "locationList": [
+        "121.216345,31.289577",
+        "121.216804,31.289425",
+        "121.217330,31.289526",
+        "121.217414,31.290777",
+        "121.216927,31.290964",
+        "121.216441,31.290845"
+      ],
+      "open": false,
+      "openRunTimeListNew": null,
+      "openType": "0",
+      "raw": {
+        "campusName": "嘉定校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.289577,
+            "longitude": 121.216345
+          },
+          {
+            "latitude": 31.289425,
+            "longitude": 121.216804
+          },
+          {
+            "latitude": 31.289526,
+            "longitude": 121.21733
+          },
+          {
+            "latitude": 31.290777,
+            "longitude": 121.217414
+          },
+          {
+            "latitude": 31.290964,
+            "longitude": 121.216927
+          },
+          {
+            "latitude": 31.290845,
+            "longitude": 121.216441
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.216345,31.289577",
+          "121.216804,31.289425",
+          "121.217330,31.289526",
+          "121.217414,31.290777",
+          "121.216927,31.290964",
+          "121.216441,31.290845"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [],
+        "openRunTimeListNew": null,
+        "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0",
+        "venueId": "dce0a68b-f2b3-4b62-be13-beb2f42f3861",
+        "venueName": "嘉定校区体育中心天然草坪田径场",
+        "venueSportType": "田径",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-04/108cd2a90c6847f1951a6a9c8a0f5c05.PNG"
+      },
+      "venueId": "dce0a68b-f2b3-4b62-be13-beb2f42f3861",
+      "venueName": "嘉定校区体育中心天然草坪田径场"
+    },
+    {
+      "campusName": "南校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.279375,
+          "longitude": 121.497329
+        },
+        {
+          "latitude": 31.280702,
+          "longitude": 121.497864
+        },
+        {
+          "latitude": 31.280526,
+          "longitude": 121.498715
+        },
+        {
+          "latitude": 31.28035,
+          "longitude": 121.498876
+        },
+        {
+          "latitude": 31.279383,
+          "longitude": 121.498358
+        },
+        {
+          "latitude": 31.279172,
+          "longitude": 121.497927
+        }
+      ],
+      "locationList": [
+        "121.497329,31.279375",
+        "121.497864,31.280702",
+        "121.498715,31.280526",
+        "121.498876,31.28035",
+        "121.498358,31.279383",
+        "121.497927,31.279172"
+      ],
+      "open": false,
+      "openRunTimeListNew": [
+        {
+          "endTime": "17:00",
+          "startTime": "13:00"
+        }
+      ],
+      "openType": "0,1",
+      "raw": {
+        "campusName": "南校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.279375,
+            "longitude": 121.497329
+          },
+          {
+            "latitude": 31.280702,
+            "longitude": 121.497864
+          },
+          {
+            "latitude": 31.280526,
+            "longitude": 121.498715
+          },
+          {
+            "latitude": 31.28035,
+            "longitude": 121.498876
+          },
+          {
+            "latitude": 31.279383,
+            "longitude": 121.498358
+          },
+          {
+            "latitude": 31.279172,
+            "longitude": 121.497927
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.497329,31.279375",
+          "121.497864,31.280702",
+          "121.498715,31.280526",
+          "121.498876,31.28035",
+          "121.498358,31.279383",
+          "121.497927,31.279172"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [
+          "13:00-14:00",
+          "14:00-15:00",
+          "15:00-16:00",
+          "16:00-17:00"
+        ],
+        "openRunTimeListNew": [
+          {
+            "endTime": "17:00",
+            "startTime": "13:00"
+          }
+        ],
+        "openRunTimeListNewEncryptstr": "58be3752bcebdf562eabc109e93c8fa4d87818d315ce2100c7c7d657d3a273b92e00508800caf3d0f4a9ac5eb4662cad",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0,1",
+        "venueId": "2ea31f0b-4e35-471b-b288-15dac2f203ad",
+        "venueName": "南校区足球场",
+        "venueSportType": "足球",
+        "venueUrl": ""
+      },
+      "venueId": "2ea31f0b-4e35-471b-b288-15dac2f203ad",
+      "venueName": "南校区足球场"
+    },
+    {
+      "campusName": "四平校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.280997,
+          "longitude": 121.503907
+        },
+        {
+          "latitude": 31.280748,
+          "longitude": 121.504518
+        },
+        {
+          "latitude": 31.28065,
+          "longitude": 121.504597
+        },
+        {
+          "latitude": 31.280386,
+          "longitude": 121.504577
+        },
+        {
+          "latitude": 31.280199,
+          "longitude": 121.504484
+        },
+        {
+          "latitude": 31.279827,
+          "longitude": 121.504278
+        },
+        {
+          "latitude": 31.279235,
+          "longitude": 121.503929
+        },
+        {
+          "latitude": 31.279304,
+          "longitude": 121.503431
+        },
+        {
+          "latitude": 31.279593,
+          "longitude": 121.5028
+        },
+        {
+          "latitude": 31.280458,
+          "longitude": 121.503366
+        },
+        {
+          "latitude": 31.280942,
+          "longitude": 121.503622
+        }
+      ],
+      "locationList": [
+        "121.503907,31.280997",
+        "121.504518,31.280748",
+        "121.504597,31.28065",
+        "121.504577,31.280386",
+        "121.504484,31.280199",
+        "121.504278,31.279827",
+        "121.503929,31.279235",
+        "121.503431,31.279304",
+        "121.5028,31.279593",
+        "121.503366,31.280458",
+        "121.503622,31.280942"
+      ],
+      "open": false,
+      "openRunTimeListNew": [
+        {
+          "endTime": "23:00",
+          "startTime": "11:00"
+        }
+      ],
+      "openType": "0",
+      "raw": {
+        "campusName": "四平校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.280997,
+            "longitude": 121.503907
+          },
+          {
+            "latitude": 31.280748,
+            "longitude": 121.504518
+          },
+          {
+            "latitude": 31.28065,
+            "longitude": 121.504597
+          },
+          {
+            "latitude": 31.280386,
+            "longitude": 121.504577
+          },
+          {
+            "latitude": 31.280199,
+            "longitude": 121.504484
+          },
+          {
+            "latitude": 31.279827,
+            "longitude": 121.504278
+          },
+          {
+            "latitude": 31.279235,
+            "longitude": 121.503929
+          },
+          {
+            "latitude": 31.279304,
+            "longitude": 121.503431
+          },
+          {
+            "latitude": 31.279593,
+            "longitude": 121.5028
+          },
+          {
+            "latitude": 31.280458,
+            "longitude": 121.503366
+          },
+          {
+            "latitude": 31.280942,
+            "longitude": 121.503622
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.503907,31.280997",
+          "121.504518,31.280748",
+          "121.504597,31.28065",
+          "121.504577,31.280386",
+          "121.504484,31.280199",
+          "121.504278,31.279827",
+          "121.503929,31.279235",
+          "121.503431,31.279304",
+          "121.5028,31.279593",
+          "121.503366,31.280458",
+          "121.503622,31.280942"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": "23:00",
+        "openEndTimeStamp": 1780758000000,
+        "openRunTimeList": [
+          "11:00-12:00",
+          "12:00-13:00",
+          "13:00-14:00",
+          "14:00-15:00",
+          "15:00-16:00",
+          "16:00-17:00",
+          "17:00-18:00",
+          "18:00-19:00",
+          "19:00-20:00",
+          "20:00-21:00",
+          "21:00-22:00",
+          "22:00-23:00"
+        ],
+        "openRunTimeListNew": [
+          {
+            "endTime": "23:00",
+            "startTime": "11:00"
+          }
+        ],
+        "openRunTimeListNewEncryptstr": "86d87350684a8edef27869d3a069b0b9d87818d315ce2100c7c7d657d3a273b9a9864b37be448a995bf0496f33e54571",
+        "openStartTime": "11:00",
+        "openStartTimeStamp": 1780714800000,
+        "openType": "0",
+        "venueId": "aca3c2a7-5d0d-405c-acca-9de9f20684a8",
+        "venueName": "四平校区一.二九田径场",
+        "venueSportType": "田径",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/b21b15fc96e341b2a95d2bb6575e3726.PNG"
+      },
+      "venueId": "aca3c2a7-5d0d-405c-acca-9de9f20684a8",
+      "venueName": "四平校区一.二九田径场"
+    },
+    {
+      "campusName": "嘉定校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.289044,
+          "longitude": 121.21598
+        },
+        {
+          "latitude": 31.288995,
+          "longitude": 121.216083
+        },
+        {
+          "latitude": 31.288968,
+          "longitude": 121.21643
+        },
+        {
+          "latitude": 31.288588,
+          "longitude": 121.216809
+        },
+        {
+          "latitude": 31.287527,
+          "longitude": 121.216004
+        },
+        {
+          "latitude": 31.287593,
+          "longitude": 121.215546
+        },
+        {
+          "latitude": 31.287926,
+          "longitude": 121.215272
+        },
+        {
+          "latitude": 31.287993,
+          "longitude": 121.215184
+        }
+      ],
+      "locationList": [
+        "121.215980,31.289044",
+        "121.216083,31.288995",
+        "121.216430,31.288968",
+        "121.216809,31.288588",
+        "121.216004,31.287527",
+        "121.215546,31.287593",
+        "121.215272,31.287926",
+        "121.215184,31.287993"
+      ],
+      "open": false,
+      "openRunTimeListNew": null,
+      "openType": "0",
+      "raw": {
+        "campusName": "嘉定校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.289044,
+            "longitude": 121.21598
+          },
+          {
+            "latitude": 31.288995,
+            "longitude": 121.216083
+          },
+          {
+            "latitude": 31.288968,
+            "longitude": 121.21643
+          },
+          {
+            "latitude": 31.288588,
+            "longitude": 121.216809
+          },
+          {
+            "latitude": 31.287527,
+            "longitude": 121.216004
+          },
+          {
+            "latitude": 31.287593,
+            "longitude": 121.215546
+          },
+          {
+            "latitude": 31.287926,
+            "longitude": 121.215272
+          },
+          {
+            "latitude": 31.287993,
+            "longitude": 121.215184
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.215980,31.289044",
+          "121.216083,31.288995",
+          "121.216430,31.288968",
+          "121.216809,31.288588",
+          "121.216004,31.287527",
+          "121.215546,31.287593",
+          "121.215272,31.287926",
+          "121.215184,31.287993"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [],
+        "openRunTimeListNew": null,
+        "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0",
+        "venueId": "e35ce361-988c-4af3-ba02-1271aae8ffc4",
+        "venueName": "嘉定校区人工草坪田径场",
+        "venueSportType": "田径",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/2e079be59659485b987ab313f2818809.PNG"
+      },
+      "venueId": "e35ce361-988c-4af3-ba02-1271aae8ffc4",
+      "venueName": "嘉定校区人工草坪田径场"
+    },
+    {
+      "campusName": "沪西校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.272809,
+          "longitude": 121.389004
+        },
+        {
+          "latitude": 31.272803,
+          "longitude": 121.389826
+        },
+        {
+          "latitude": 31.27245,
+          "longitude": 121.389908
+        },
+        {
+          "latitude": 31.27121,
+          "longitude": 121.390124
+        },
+        {
+          "latitude": 31.271076,
+          "longitude": 121.389597
+        },
+        {
+          "latitude": 31.271013,
+          "longitude": 121.388983
+        },
+        {
+          "latitude": 31.271514,
+          "longitude": 121.388874
+        },
+        {
+          "latitude": 31.272426,
+          "longitude": 121.388747
+        }
+      ],
+      "locationList": [
+        "121.389004,31.272809",
+        "121.389826,31.272803",
+        "121.389908,31.272450",
+        "121.390124,31.271210",
+        "121.389597,31.271076",
+        "121.388983,31.271013",
+        "121.388874,31.271514",
+        "121.388747,31.272426"
+      ],
+      "open": false,
+      "openRunTimeListNew": null,
+      "openType": "0",
+      "raw": {
+        "campusName": "沪西校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.272809,
+            "longitude": 121.389004
+          },
+          {
+            "latitude": 31.272803,
+            "longitude": 121.389826
+          },
+          {
+            "latitude": 31.27245,
+            "longitude": 121.389908
+          },
+          {
+            "latitude": 31.27121,
+            "longitude": 121.390124
+          },
+          {
+            "latitude": 31.271076,
+            "longitude": 121.389597
+          },
+          {
+            "latitude": 31.271013,
+            "longitude": 121.388983
+          },
+          {
+            "latitude": 31.271514,
+            "longitude": 121.388874
+          },
+          {
+            "latitude": 31.272426,
+            "longitude": 121.388747
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.389004,31.272809",
+          "121.389826,31.272803",
+          "121.389908,31.272450",
+          "121.390124,31.271210",
+          "121.389597,31.271076",
+          "121.388983,31.271013",
+          "121.388874,31.271514",
+          "121.388747,31.272426"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [],
+        "openRunTimeListNew": null,
+        "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0",
+        "venueId": "606357ff-07ee-4388-ac1a-e98f714e0a6e",
+        "venueName": "沪西校区田径场",
+        "venueSportType": "足球",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/ecb6945e76654e9f8cdeeac70bd2d239.PNG"
+      },
+      "venueId": "606357ff-07ee-4388-ac1a-e98f714e0a6e",
+      "venueName": "沪西校区田径场"
+    },
+    {
+      "campusName": "嘉定校区",
+      "coordinateEntityList": [
+        {
+          "latitude": 31.289577,
+          "longitude": 121.216345
+        },
+        {
+          "latitude": 31.289425,
+          "longitude": 121.216804
+        },
+        {
+          "latitude": 31.289526,
+          "longitude": 121.21733
+        },
+        {
+          "latitude": 31.290777,
+          "longitude": 121.217414
+        },
+        {
+          "latitude": 31.290964,
+          "longitude": 121.216927
+        },
+        {
+          "latitude": 31.290845,
+          "longitude": 121.216441
+        }
+      ],
+      "locationList": [
+        "121.216345,31.289577",
+        "121.216804,31.289425",
+        "121.217330,31.289526",
+        "121.217414,31.290777",
+        "121.216927,31.290964",
+        "121.216441,31.290845"
+      ],
+      "open": false,
+      "openRunTimeListNew": null,
+      "openType": "0",
+      "raw": {
+        "campusName": "嘉定校区",
+        "coordinateEntityList": [
+          {
+            "latitude": 31.289577,
+            "longitude": 121.216345
+          },
+          {
+            "latitude": 31.289425,
+            "longitude": 121.216804
+          },
+          {
+            "latitude": 31.289526,
+            "longitude": 121.21733
+          },
+          {
+            "latitude": 31.290777,
+            "longitude": 121.217414
+          },
+          {
+            "latitude": 31.290964,
+            "longitude": 121.216927
+          },
+          {
+            "latitude": 31.290845,
+            "longitude": 121.216441
+          }
+        ],
+        "daySignOnceSignTime": "30分钟及以上，每天1次",
+        "locationList": [
+          "121.216345,31.289577",
+          "121.216804,31.289425",
+          "121.217330,31.289526",
+          "121.217414,31.290777",
+          "121.216927,31.290964",
+          "121.216441,31.290845"
+        ],
+        "minDistance": 20038001.0,
+        "open": false,
+        "openEndTime": null,
+        "openEndTimeStamp": 0,
+        "openRunTimeList": [],
+        "openRunTimeListNew": null,
+        "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+        "openStartTime": null,
+        "openStartTimeStamp": 0,
+        "openType": "0",
+        "venueId": "dce0a68b-f2b3-4b62-be13-beb2f42f3861",
+        "venueName": "嘉定校区体育中心天然草坪田径场",
+        "venueSportType": "田径",
+        "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-04/108cd2a90c6847f1951a6a9c8a0f5c05.PNG"
+      },
+      "venueId": "dce0a68b-f2b3-4b62-be13-beb2f42f3861",
+      "venueName": "嘉定校区体育中心天然草坪田径场"
+    }
+  ],
+  "path": "/api/public/tongji/requestVenue",
+  "query": {},
+  "rawResponse": {
+    "code": 200,
+    "data": [
+      {
+        "remark": null,
+        "runningPointList": [
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.29075,
+                "longitude": 121.215299
+              },
+              {
+                "latitude": 31.289675,
+                "longitude": 121.215333
+              },
+              {
+                "latitude": 31.28965,
+                "longitude": 121.216257
+              },
+              {
+                "latitude": 31.290832,
+                "longitude": 121.216319
+              },
+              {
+                "latitude": 31.29074,
+                "longitude": 121.215317
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215299,31.29075",
+              "121.215333,31.289675",
+              "121.216257,31.28965",
+              "121.216319,31.290832",
+              "121.215317,31.29074"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "f96d76eb-62f4-4be9-aeaa-4a7199b51474",
+            "venueName": "嘉定体育中心篮球馆",
+            "venueSportType": "篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/ae1ba48fb7314b46a505e54ba04a1e17.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.272468,
+                "longitude": 121.389014
+              },
+              {
+                "latitude": 31.272459,
+                "longitude": 121.388638
+              },
+              {
+                "latitude": 31.273135,
+                "longitude": 121.388711
+              },
+              {
+                "latitude": 31.273111,
+                "longitude": 121.389128
+              },
+              {
+                "latitude": 31.272482,
+                "longitude": 121.389004
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389014,31.272468",
+              "121.388638,31.272459",
+              "121.388711,31.273135",
+              "121.389128,31.273111",
+              "121.389004,31.272482"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "a936d943-ddf3-4727-89a8-076b814de8f6",
+            "venueName": "沪西校区羽毛球馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/6b04cb0b2356466db90381ad14196983.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.28234,
+                "longitude": 121.50156
+              },
+              {
+                "latitude": 31.2825,
+                "longitude": 121.501723
+              },
+              {
+                "latitude": 31.282996,
+                "longitude": 121.501932
+              },
+              {
+                "latitude": 31.283118,
+                "longitude": 121.501847
+              },
+              {
+                "latitude": 31.283202,
+                "longitude": 121.501553
+              },
+              {
+                "latitude": 31.282524,
+                "longitude": 121.50115
+              },
+              {
+                "latitude": 31.282386,
+                "longitude": 121.501322
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.501560,31.282340",
+              "121.501723,31.282500",
+              "121.501932,31.282996",
+              "121.501847,31.283118",
+              "121.501553,31.283202",
+              "121.501150,31.282524",
+              "121.501322,31.282386"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "e8cbad5a-ea0f-49bc-a8a5-817c6984a742",
+            "venueName": "四平校区爱校路网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/865c0a773fd24fc2bf0f3cc06e805ea9.PNG"
+          },
+          {
+            "campusName": "南校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.279375,
+                "longitude": 121.497329
+              },
+              {
+                "latitude": 31.280702,
+                "longitude": 121.497864
+              },
+              {
+                "latitude": 31.280526,
+                "longitude": 121.498715
+              },
+              {
+                "latitude": 31.28035,
+                "longitude": 121.498876
+              },
+              {
+                "latitude": 31.279383,
+                "longitude": 121.498358
+              },
+              {
+                "latitude": 31.279172,
+                "longitude": 121.497927
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.497329,31.279375",
+              "121.497864,31.280702",
+              "121.498715,31.280526",
+              "121.498876,31.28035",
+              "121.498358,31.279383",
+              "121.497927,31.279172"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0,1",
+            "venueId": "2ea31f0b-4e35-471b-b288-15dac2f203ad",
+            "venueName": "南校区足球场",
+            "venueSportType": "足球",
+            "venueUrl": ""
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.280997,
+                "longitude": 121.503907
+              },
+              {
+                "latitude": 31.280748,
+                "longitude": 121.504518
+              },
+              {
+                "latitude": 31.28065,
+                "longitude": 121.504597
+              },
+              {
+                "latitude": 31.280386,
+                "longitude": 121.504577
+              },
+              {
+                "latitude": 31.280199,
+                "longitude": 121.504484
+              },
+              {
+                "latitude": 31.279827,
+                "longitude": 121.504278
+              },
+              {
+                "latitude": 31.279235,
+                "longitude": 121.503929
+              },
+              {
+                "latitude": 31.279304,
+                "longitude": 121.503431
+              },
+              {
+                "latitude": 31.279593,
+                "longitude": 121.5028
+              },
+              {
+                "latitude": 31.280458,
+                "longitude": 121.503366
+              },
+              {
+                "latitude": 31.280942,
+                "longitude": 121.503622
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.503907,31.280997",
+              "121.504518,31.280748",
+              "121.504597,31.28065",
+              "121.504577,31.280386",
+              "121.504484,31.280199",
+              "121.504278,31.279827",
+              "121.503929,31.279235",
+              "121.503431,31.279304",
+              "121.5028,31.279593",
+              "121.503366,31.280458",
+              "121.503622,31.280942"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "00:00-01:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "01:00",
+                "startTime": "00:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5ef35580eb06e31724da31facf612899d87818d315ce2100c7c7d657d3a273b97257032114ff712b03a5a9e3441057a1",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0",
+            "venueId": "aca3c2a7-5d0d-405c-acca-9de9f20684a8",
+            "venueName": "四平校区一.二九田径场",
+            "venueSportType": "田径",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/b21b15fc96e341b2a95d2bb6575e3726.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.289044,
+                "longitude": 121.21598
+              },
+              {
+                "latitude": 31.288995,
+                "longitude": 121.216083
+              },
+              {
+                "latitude": 31.288968,
+                "longitude": 121.21643
+              },
+              {
+                "latitude": 31.288588,
+                "longitude": 121.216809
+              },
+              {
+                "latitude": 31.287527,
+                "longitude": 121.216004
+              },
+              {
+                "latitude": 31.287593,
+                "longitude": 121.215546
+              },
+              {
+                "latitude": 31.287926,
+                "longitude": 121.215272
+              },
+              {
+                "latitude": 31.287993,
+                "longitude": 121.215184
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215980,31.289044",
+              "121.216083,31.288995",
+              "121.216430,31.288968",
+              "121.216809,31.288588",
+              "121.216004,31.287527",
+              "121.215546,31.287593",
+              "121.215272,31.287926",
+              "121.215184,31.287993"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0",
+            "venueId": "e35ce361-988c-4af3-ba02-1271aae8ffc4",
+            "venueName": "嘉定校区人工草坪田径场",
+            "venueSportType": "田径",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/2e079be59659485b987ab313f2818809.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.281869,
+                "longitude": 121.502791
+              },
+              {
+                "latitude": 31.281502,
+                "longitude": 121.502636
+              },
+              {
+                "latitude": 31.280897,
+                "longitude": 121.504045
+              },
+              {
+                "latitude": 31.281215,
+                "longitude": 121.504249
+              },
+              {
+                "latitude": 31.281317,
+                "longitude": 121.504148
+              },
+              {
+                "latitude": 31.281732,
+                "longitude": 121.503317
+              },
+              {
+                "latitude": 31.281902,
+                "longitude": 121.502996
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.502791,31.281869",
+              "121.502636,31.281502",
+              "121.504045,31.280897",
+              "121.504249,31.281215",
+              "121.504148,31.281317",
+              "121.503317,31.281732",
+              "121.502996,31.281902"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "07:00-08:00",
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "07:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b940ea7e1134ef46c79c40340ef0748ba6",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "a6831401-dac1-4da9-b9cf-8b1035f69cb9",
+            "venueName": "四平校区一.二九篮球场",
+            "venueSportType": "排球,篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/1316e888217040e49b26c620853f19a5.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.290991,
+                "longitude": 121.214552
+              },
+              {
+                "latitude": 31.289649,
+                "longitude": 121.214661
+              },
+              {
+                "latitude": 31.289402,
+                "longitude": 121.216534
+              },
+              {
+                "latitude": 31.291044,
+                "longitude": 121.216406
+              },
+              {
+                "latitude": 31.291059,
+                "longitude": 121.21455
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214552,31.290991",
+              "121.214661,31.289649",
+              "121.216534,31.289402",
+              "121.216406,31.291044",
+              "121.21455,31.291059"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "86c1ece1-5829-4379-a3e8-ba4edb86ecc2",
+            "venueName": "嘉定校区游泳馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/f6f43e7ddeab49649d882945303c55f1.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.28255,
+                "longitude": 121.50331
+              },
+              {
+                "latitude": 31.281807,
+                "longitude": 121.502979
+              },
+              {
+                "latitude": 31.281677,
+                "longitude": 121.503378
+              },
+              {
+                "latitude": 31.282348,
+                "longitude": 121.503883
+              },
+              {
+                "latitude": 31.282555,
+                "longitude": 121.503316
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.50331,31.28255",
+              "121.502979,31.281807",
+              "121.503378,31.281677",
+              "121.503883,31.282348",
+              "121.503316,31.282555"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "9c48495b-739b-42df-8dc9-0b1bc52028ba",
+            "venueName": "四平校区乒乓房",
+            "venueSportType": "乒乓球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/572001fa4e4642f3a06e8c283e74e03b.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.289191,
+                "longitude": 121.215426
+              },
+              {
+                "latitude": 31.288933,
+                "longitude": 121.215169
+              },
+              {
+                "latitude": 31.28863,
+                "longitude": 121.215607
+              },
+              {
+                "latitude": 31.288907,
+                "longitude": 121.215868
+              },
+              {
+                "latitude": 31.289174,
+                "longitude": 121.215529
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215426,31.289191",
+              "121.215169,31.288933",
+              "121.215607,31.288630",
+              "121.215868,31.288907",
+              "121.215529,31.289174"
+            ],
+            "minDistance": 20038001.0,
+            "open": true,
+            "openEndTime": "22:00",
+            "openEndTimeStamp": 1780754400000,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00",
+              "21:00-22:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "22:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "68fb9c7fa1ee9a0473663350d2c38057d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": "09:00",
+            "openStartTimeStamp": 1780707600000,
+            "openType": "1",
+            "venueId": "d1d5f937-597b-4abb-9504-2bec6850ab31",
+            "venueName": "嘉定校区排球场",
+            "venueSportType": "排球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/97ce4a7ae13e4eb0aca18612925e651a.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.272809,
+                "longitude": 121.389004
+              },
+              {
+                "latitude": 31.272803,
+                "longitude": 121.389826
+              },
+              {
+                "latitude": 31.27245,
+                "longitude": 121.389908
+              },
+              {
+                "latitude": 31.27121,
+                "longitude": 121.390124
+              },
+              {
+                "latitude": 31.271076,
+                "longitude": 121.389597
+              },
+              {
+                "latitude": 31.271013,
+                "longitude": 121.388983
+              },
+              {
+                "latitude": 31.271514,
+                "longitude": 121.388874
+              },
+              {
+                "latitude": 31.272426,
+                "longitude": 121.388747
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389004,31.272809",
+              "121.389826,31.272803",
+              "121.389908,31.272450",
+              "121.390124,31.271210",
+              "121.389597,31.271076",
+              "121.388983,31.271013",
+              "121.388874,31.271514",
+              "121.388747,31.272426"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0",
+            "venueId": "606357ff-07ee-4388-ac1a-e98f714e0a6e",
+            "venueName": "沪西校区田径场",
+            "venueSportType": "足球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/ecb6945e76654e9f8cdeeac70bd2d239.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.281782,
+                "longitude": 121.502958
+              },
+              {
+                "latitude": 31.282004,
+                "longitude": 121.503068
+              },
+              {
+                "latitude": 31.282185,
+                "longitude": 121.502539
+              },
+              {
+                "latitude": 31.282002,
+                "longitude": 121.502452
+              },
+              {
+                "latitude": 31.281789,
+                "longitude": 121.502955
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.502958,31.281782",
+              "121.503068,31.282004",
+              "121.502539,31.282185",
+              "121.502452,31.282002",
+              "121.502955,31.281789"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "88d94c68-306f-46a1-8b7b-4c7092dbce95",
+            "venueName": "四平校区拳操房",
+            "venueSportType": "拳操",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/26b755a8786440ad96e740baf69dee40.PNG"
+          },
+          {
+            "campusName": "南校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.27968,
+                "longitude": 121.498686
+              },
+              {
+                "latitude": 31.280008,
+                "longitude": 121.498758
+              },
+              {
+                "latitude": 31.279812,
+                "longitude": 121.499364
+              },
+              {
+                "latitude": 31.279445,
+                "longitude": 121.499249
+              },
+              {
+                "latitude": 31.279655,
+                "longitude": 121.498661
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.498686,31.279680",
+              "121.498758,31.280008",
+              "121.499364,31.279812",
+              "121.499249,31.279445",
+              "121.498661,31.279655"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "12:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "027dc5cbdc92f708f9a9acbd827ce6e1d87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "e90e1596-927d-403f-9a96-d900c9dae566",
+            "venueName": "南校区体育馆二楼手球馆",
+            "venueSportType": "手球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-10/af01d3497f114a41b81f385ba2576e24.JPG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.291085,
+                "longitude": 121.214643
+              },
+              {
+                "latitude": 31.289579,
+                "longitude": 121.214662
+              },
+              {
+                "latitude": 31.289457,
+                "longitude": 121.216486
+              },
+              {
+                "latitude": 31.290906,
+                "longitude": 121.216602
+              },
+              {
+                "latitude": 31.29105,
+                "longitude": 121.21467
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214643,31.291085",
+              "121.214662,31.289579",
+              "121.216486,31.289457",
+              "121.216602,31.290906",
+              "121.21467,31.29105"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "8acee1b9-ef3f-4675-b043-8aaf4fd7cc34",
+            "venueName": "嘉定体育中心乒乓房",
+            "venueSportType": "乒乓球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/7e55561ab93f4dc6924fc52e5576b0f8.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.286549,
+                "longitude": 121.509829
+              },
+              {
+                "latitude": 31.28757,
+                "longitude": 121.5103
+              },
+              {
+                "latitude": 31.286841,
+                "longitude": 121.512307
+              },
+              {
+                "latitude": 31.285878,
+                "longitude": 121.511839
+              },
+              {
+                "latitude": 31.286541,
+                "longitude": 121.509839
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.509829,31.286549",
+              "121.510300,31.287570",
+              "121.512307,31.286841",
+              "121.511839,31.285878",
+              "121.509839,31.286541"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "17:00",
+                "startTime": "14:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "58be3752bcebdf562eabc109e93c8fa4d87818d315ce2100c7c7d657d3a273b97b9a3e827c1db78213345b1763964c70",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "4f4b299f-d10f-4065-aa9f-5fb167392281",
+            "venueName": "四平校区综合训练馆羽毛球馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/4e09d7676e9b411e9732a09374eb784a.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.273166,
+                "longitude": 121.389792
+              },
+              {
+                "latitude": 31.272405,
+                "longitude": 121.390028
+              },
+              {
+                "latitude": 31.272516,
+                "longitude": 121.390683
+              },
+              {
+                "latitude": 31.273274,
+                "longitude": 121.390449
+              },
+              {
+                "latitude": 31.273178,
+                "longitude": 121.389789
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389792,31.273166",
+              "121.390028,31.272405",
+              "121.390683,31.272516",
+              "121.390449,31.273274",
+              "121.389789,31.273178"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "a6137b38-f5a4-47e2-8e9f-be4a3ceabda9",
+            "venueName": "沪西校区网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/dadcf313c0804701a3a9c2771ffe350c.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.288953,
+                "longitude": 121.215273
+              },
+              {
+                "latitude": 31.28838,
+                "longitude": 121.214852
+              },
+              {
+                "latitude": 31.288132,
+                "longitude": 121.215211
+              },
+              {
+                "latitude": 31.288772,
+                "longitude": 121.215711
+              },
+              {
+                "latitude": 31.28898,
+                "longitude": 121.215266
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215273,31.288953",
+              "121.214852,31.288380",
+              "121.215211,31.288132",
+              "121.215711,31.288772",
+              "121.215266,31.288980"
+            ],
+            "minDistance": 20038001.0,
+            "open": true,
+            "openEndTime": "22:00",
+            "openEndTimeStamp": 1780754400000,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00",
+              "21:00-22:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "22:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "68fb9c7fa1ee9a0473663350d2c38057d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": "09:00",
+            "openStartTimeStamp": 1780707600000,
+            "openType": "1",
+            "venueId": "e77c9aa3-6a45-4409-b437-93a283775a88",
+            "venueName": "嘉定校区网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/fd33ad2409154327980555b5b96e98b1.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.273165,
+                "longitude": 121.389807
+              },
+              {
+                "latitude": 31.272412,
+                "longitude": 121.39002
+              },
+              {
+                "latitude": 31.272529,
+                "longitude": 121.390706
+              },
+              {
+                "latitude": 31.273268,
+                "longitude": 121.390512
+              },
+              {
+                "latitude": 31.273172,
+                "longitude": 121.389805
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389807,31.273165",
+              "121.39002,31.272412",
+              "121.390706,31.272529",
+              "121.390512,31.273268",
+              "121.389805,31.273172"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "22437380-2072-46e7-93d7-3dd6a40e36b3",
+            "venueName": "沪西校区篮球场",
+            "venueSportType": "篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/d5b8a7b0ae1a473cac0c69e65ce4a57c.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.286404,
+                "longitude": 121.209151
+              },
+              {
+                "latitude": 31.285897,
+                "longitude": 121.209879
+              },
+              {
+                "latitude": 31.286054,
+                "longitude": 121.210781
+              },
+              {
+                "latitude": 31.286429,
+                "longitude": 121.211554
+              },
+              {
+                "latitude": 31.286649,
+                "longitude": 121.211214
+              },
+              {
+                "latitude": 31.287219,
+                "longitude": 121.211664
+              },
+              {
+                "latitude": 31.287231,
+                "longitude": 121.210239
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.209151,31.286404",
+              "121.209879,31.285897",
+              "121.210781,31.286054",
+              "121.211554,31.286429",
+              "121.211214,31.286649",
+              "121.211664,31.287219",
+              "121.210239,31.287231"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "17:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "58be3752bcebdf562eabc109e93c8fa4d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "751d99b2-8024-4085-be9e-1ac7d698df83",
+            "venueName": "嘉定校区高尔夫",
+            "venueSportType": "高尔夫",
+            "venueUrl": ""
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.273155,
+                "longitude": 121.38978
+              },
+              {
+                "latitude": 31.272404,
+                "longitude": 121.390038
+              },
+              {
+                "latitude": 31.272524,
+                "longitude": 121.390712
+              },
+              {
+                "latitude": 31.273262,
+                "longitude": 121.390501
+              },
+              {
+                "latitude": 31.273165,
+                "longitude": 121.389781
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.38978,31.273155",
+              "121.390038,31.272404",
+              "121.390712,31.272524",
+              "121.390501,31.273262",
+              "121.389781,31.273165"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "6ecdcd05-2e46-4502-9706-d7f77cf7ebe0",
+            "venueName": "沪西校区排球场",
+            "venueSportType": "排球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/95b174ebb7804f4eb6da3c0dd2983ec9.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.289577,
+                "longitude": 121.216345
+              },
+              {
+                "latitude": 31.289425,
+                "longitude": 121.216804
+              },
+              {
+                "latitude": 31.289526,
+                "longitude": 121.21733
+              },
+              {
+                "latitude": 31.290777,
+                "longitude": 121.217414
+              },
+              {
+                "latitude": 31.290964,
+                "longitude": 121.216927
+              },
+              {
+                "latitude": 31.290845,
+                "longitude": 121.216441
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.216345,31.289577",
+              "121.216804,31.289425",
+              "121.217330,31.289526",
+              "121.217414,31.290777",
+              "121.216927,31.290964",
+              "121.216441,31.290845"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0",
+            "venueId": "dce0a68b-f2b3-4b62-be13-beb2f42f3861",
+            "venueName": "嘉定校区体育中心天然草坪田径场",
+            "venueSportType": "田径",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-04/108cd2a90c6847f1951a6a9c8a0f5c05.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.282529,
+                "longitude": 121.503327
+              },
+              {
+                "latitude": 31.281841,
+                "longitude": 121.503017
+              },
+              {
+                "latitude": 31.28173,
+                "longitude": 121.503382
+              },
+              {
+                "latitude": 31.28183,
+                "longitude": 121.503467
+              },
+              {
+                "latitude": 31.28188,
+                "longitude": 121.503562
+              },
+              {
+                "latitude": 31.282419,
+                "longitude": 121.503852
+              },
+              {
+                "latitude": 31.282637,
+                "longitude": 121.503362
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.503327,31.282529",
+              "121.503017,31.281841",
+              "121.503382,31.28173",
+              "121.503467,31.28183",
+              "121.503562,31.28188",
+              "121.503852,31.282419",
+              "121.503362,31.282637"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "4ac275e4-d41a-4fc2-852b-f3a3383d80d1",
+            "venueName": "四平校区攀岩馆",
+            "venueSportType": "攀岩,羽毛球,健身",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/c64bdd5c9ecd410fb423da17dad18639.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.29109,
+                "longitude": 121.214824
+              },
+              {
+                "latitude": 31.289468,
+                "longitude": 121.214641
+              },
+              {
+                "latitude": 31.289265,
+                "longitude": 121.216568
+              },
+              {
+                "latitude": 31.29101,
+                "longitude": 121.216617
+              },
+              {
+                "latitude": 31.291086,
+                "longitude": 121.214801
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214824,31.29109",
+              "121.214641,31.289468",
+              "121.216568,31.289265",
+              "121.216617,31.29101",
+              "121.214801,31.291086"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "c7018ac0-af1f-4eb9-8f42-29156770a09c",
+            "venueName": "嘉定体育中心羽毛球馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/22554346d7d24d4f902005412cacba77.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.286806,
+                "longitude": 121.20802
+              },
+              {
+                "latitude": 31.286942,
+                "longitude": 121.208265
+              },
+              {
+                "latitude": 31.286716,
+                "longitude": 121.208555
+              },
+              {
+                "latitude": 31.286519,
+                "longitude": 121.208281
+              },
+              {
+                "latitude": 31.286428,
+                "longitude": 121.208135
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.208020,31.286806",
+              "121.208265,31.286942",
+              "121.208555,31.286716",
+              "121.208281,31.286519",
+              "121.208135,31.286428"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "05:00-06:00",
+              "06:00-07:00",
+              "07:00-08:00",
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "05:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b998573f512c1d2832ffb56b7c3ee73b6e",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "86074c5b-584d-4823-b22e-a74375436907",
+            "venueName": "嘉定校区世联行赛艇会",
+            "venueSportType": "体质测试,赛艇",
+            "venueUrl": ""
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.288127,
+                "longitude": 121.214452
+              },
+              {
+                "latitude": 31.287434,
+                "longitude": 121.213754
+              },
+              {
+                "latitude": 31.28672,
+                "longitude": 121.214942
+              },
+              {
+                "latitude": 31.28751,
+                "longitude": 121.21558
+              },
+              {
+                "latitude": 31.288011,
+                "longitude": 121.214803
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214452,31.288127",
+              "121.213754,31.287434",
+              "121.214942,31.286720",
+              "121.215580,31.287510",
+              "121.214803,31.288011"
+            ],
+            "minDistance": 20038001.0,
+            "open": true,
+            "openEndTime": "22:00",
+            "openEndTimeStamp": 1780754400000,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00",
+              "21:00-22:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "22:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "68fb9c7fa1ee9a0473663350d2c38057d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": "09:00",
+            "openStartTimeStamp": 1780707600000,
+            "openType": "1",
+            "venueId": "81b3632b-8f91-4c97-b46d-3847ca35977e",
+            "venueName": "嘉定校区篮球场",
+            "venueSportType": "篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/61029ac51f3a4bd7b15576b8118f4e7a.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.283259,
+                "longitude": 121.50167
+              },
+              {
+                "latitude": 31.283696,
+                "longitude": 121.500547
+              },
+              {
+                "latitude": 31.282734,
+                "longitude": 121.500046
+              },
+              {
+                "latitude": 31.282313,
+                "longitude": 121.501122
+              },
+              {
+                "latitude": 31.283265,
+                "longitude": 121.501655
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.50167,31.283259",
+              "121.500547,31.283696",
+              "121.500046,31.282734",
+              "121.501122,31.282313",
+              "121.501655,31.283265"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "496d967d-aca7-4eb7-a3c6-142f40b100b7",
+            "venueName": "四平校区爱校路足球场",
+            "venueSportType": "足球,篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/6ba900a94513453fb318e43957cd5313.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.282432,
+                "longitude": 121.50371
+              },
+              {
+                "latitude": 31.281799,
+                "longitude": 121.503433
+              },
+              {
+                "latitude": 31.281673,
+                "longitude": 121.503763
+              },
+              {
+                "latitude": 31.28229,
+                "longitude": 121.504088
+              },
+              {
+                "latitude": 31.282433,
+                "longitude": 121.503711
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.50371,31.282432",
+              "121.503433,31.281799",
+              "121.503763,31.281673",
+              "121.504088,31.28229",
+              "121.503711,31.282433"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "c02cc386-e37e-4b20-beb2-e3244b49f26f",
+            "venueName": "四平校区南大道网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/aeed34796c6c46c88bdb7280589cf5e6.PNG"
+          }
+        ],
+        "weekName": "星期六"
+      },
+      {
+        "remark": null,
+        "runningPointList": [
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.29075,
+                "longitude": 121.215299
+              },
+              {
+                "latitude": 31.289675,
+                "longitude": 121.215333
+              },
+              {
+                "latitude": 31.28965,
+                "longitude": 121.216257
+              },
+              {
+                "latitude": 31.290832,
+                "longitude": 121.216319
+              },
+              {
+                "latitude": 31.29074,
+                "longitude": 121.215317
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215299,31.29075",
+              "121.215333,31.289675",
+              "121.216257,31.28965",
+              "121.216319,31.290832",
+              "121.215317,31.29074"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "f96d76eb-62f4-4be9-aeaa-4a7199b51474",
+            "venueName": "嘉定体育中心篮球馆",
+            "venueSportType": "篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/ae1ba48fb7314b46a505e54ba04a1e17.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.272468,
+                "longitude": 121.389014
+              },
+              {
+                "latitude": 31.272459,
+                "longitude": 121.388638
+              },
+              {
+                "latitude": 31.273135,
+                "longitude": 121.388711
+              },
+              {
+                "latitude": 31.273111,
+                "longitude": 121.389128
+              },
+              {
+                "latitude": 31.272482,
+                "longitude": 121.389004
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389014,31.272468",
+              "121.388638,31.272459",
+              "121.388711,31.273135",
+              "121.389128,31.273111",
+              "121.389004,31.272482"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "a936d943-ddf3-4727-89a8-076b814de8f6",
+            "venueName": "沪西校区羽毛球馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/6b04cb0b2356466db90381ad14196983.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.28234,
+                "longitude": 121.50156
+              },
+              {
+                "latitude": 31.2825,
+                "longitude": 121.501723
+              },
+              {
+                "latitude": 31.282996,
+                "longitude": 121.501932
+              },
+              {
+                "latitude": 31.283118,
+                "longitude": 121.501847
+              },
+              {
+                "latitude": 31.283202,
+                "longitude": 121.501553
+              },
+              {
+                "latitude": 31.282524,
+                "longitude": 121.50115
+              },
+              {
+                "latitude": 31.282386,
+                "longitude": 121.501322
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.501560,31.282340",
+              "121.501723,31.282500",
+              "121.501932,31.282996",
+              "121.501847,31.283118",
+              "121.501553,31.283202",
+              "121.501150,31.282524",
+              "121.501322,31.282386"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "e8cbad5a-ea0f-49bc-a8a5-817c6984a742",
+            "venueName": "四平校区爱校路网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/865c0a773fd24fc2bf0f3cc06e805ea9.PNG"
+          },
+          {
+            "campusName": "南校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.279375,
+                "longitude": 121.497329
+              },
+              {
+                "latitude": 31.280702,
+                "longitude": 121.497864
+              },
+              {
+                "latitude": 31.280526,
+                "longitude": 121.498715
+              },
+              {
+                "latitude": 31.28035,
+                "longitude": 121.498876
+              },
+              {
+                "latitude": 31.279383,
+                "longitude": 121.498358
+              },
+              {
+                "latitude": 31.279172,
+                "longitude": 121.497927
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.497329,31.279375",
+              "121.497864,31.280702",
+              "121.498715,31.280526",
+              "121.498876,31.28035",
+              "121.498358,31.279383",
+              "121.497927,31.279172"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "17:00",
+                "startTime": "13:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "58be3752bcebdf562eabc109e93c8fa4d87818d315ce2100c7c7d657d3a273b92e00508800caf3d0f4a9ac5eb4662cad",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0,1",
+            "venueId": "2ea31f0b-4e35-471b-b288-15dac2f203ad",
+            "venueName": "南校区足球场",
+            "venueSportType": "足球",
+            "venueUrl": ""
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.280997,
+                "longitude": 121.503907
+              },
+              {
+                "latitude": 31.280748,
+                "longitude": 121.504518
+              },
+              {
+                "latitude": 31.28065,
+                "longitude": 121.504597
+              },
+              {
+                "latitude": 31.280386,
+                "longitude": 121.504577
+              },
+              {
+                "latitude": 31.280199,
+                "longitude": 121.504484
+              },
+              {
+                "latitude": 31.279827,
+                "longitude": 121.504278
+              },
+              {
+                "latitude": 31.279235,
+                "longitude": 121.503929
+              },
+              {
+                "latitude": 31.279304,
+                "longitude": 121.503431
+              },
+              {
+                "latitude": 31.279593,
+                "longitude": 121.5028
+              },
+              {
+                "latitude": 31.280458,
+                "longitude": 121.503366
+              },
+              {
+                "latitude": 31.280942,
+                "longitude": 121.503622
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.503907,31.280997",
+              "121.504518,31.280748",
+              "121.504597,31.28065",
+              "121.504577,31.280386",
+              "121.504484,31.280199",
+              "121.504278,31.279827",
+              "121.503929,31.279235",
+              "121.503431,31.279304",
+              "121.5028,31.279593",
+              "121.503366,31.280458",
+              "121.503622,31.280942"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": "23:00",
+            "openEndTimeStamp": 1780758000000,
+            "openRunTimeList": [
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00",
+              "21:00-22:00",
+              "22:00-23:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "23:00",
+                "startTime": "11:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "86d87350684a8edef27869d3a069b0b9d87818d315ce2100c7c7d657d3a273b9a9864b37be448a995bf0496f33e54571",
+            "openStartTime": "11:00",
+            "openStartTimeStamp": 1780714800000,
+            "openType": "0",
+            "venueId": "aca3c2a7-5d0d-405c-acca-9de9f20684a8",
+            "venueName": "四平校区一.二九田径场",
+            "venueSportType": "田径",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/b21b15fc96e341b2a95d2bb6575e3726.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.289044,
+                "longitude": 121.21598
+              },
+              {
+                "latitude": 31.288995,
+                "longitude": 121.216083
+              },
+              {
+                "latitude": 31.288968,
+                "longitude": 121.21643
+              },
+              {
+                "latitude": 31.288588,
+                "longitude": 121.216809
+              },
+              {
+                "latitude": 31.287527,
+                "longitude": 121.216004
+              },
+              {
+                "latitude": 31.287593,
+                "longitude": 121.215546
+              },
+              {
+                "latitude": 31.287926,
+                "longitude": 121.215272
+              },
+              {
+                "latitude": 31.287993,
+                "longitude": 121.215184
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215980,31.289044",
+              "121.216083,31.288995",
+              "121.216430,31.288968",
+              "121.216809,31.288588",
+              "121.216004,31.287527",
+              "121.215546,31.287593",
+              "121.215272,31.287926",
+              "121.215184,31.287993"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0",
+            "venueId": "e35ce361-988c-4af3-ba02-1271aae8ffc4",
+            "venueName": "嘉定校区人工草坪田径场",
+            "venueSportType": "田径",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/2e079be59659485b987ab313f2818809.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.281869,
+                "longitude": 121.502791
+              },
+              {
+                "latitude": 31.281502,
+                "longitude": 121.502636
+              },
+              {
+                "latitude": 31.280897,
+                "longitude": 121.504045
+              },
+              {
+                "latitude": 31.281215,
+                "longitude": 121.504249
+              },
+              {
+                "latitude": 31.281317,
+                "longitude": 121.504148
+              },
+              {
+                "latitude": 31.281732,
+                "longitude": 121.503317
+              },
+              {
+                "latitude": 31.281902,
+                "longitude": 121.502996
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.502791,31.281869",
+              "121.502636,31.281502",
+              "121.504045,31.280897",
+              "121.504249,31.281215",
+              "121.504148,31.281317",
+              "121.503317,31.281732",
+              "121.502996,31.281902"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "07:00-08:00",
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "07:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b940ea7e1134ef46c79c40340ef0748ba6",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "a6831401-dac1-4da9-b9cf-8b1035f69cb9",
+            "venueName": "四平校区一.二九篮球场",
+            "venueSportType": "排球,篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/1316e888217040e49b26c620853f19a5.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.290991,
+                "longitude": 121.214552
+              },
+              {
+                "latitude": 31.289649,
+                "longitude": 121.214661
+              },
+              {
+                "latitude": 31.289402,
+                "longitude": 121.216534
+              },
+              {
+                "latitude": 31.291044,
+                "longitude": 121.216406
+              },
+              {
+                "latitude": 31.291059,
+                "longitude": 121.21455
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214552,31.290991",
+              "121.214661,31.289649",
+              "121.216534,31.289402",
+              "121.216406,31.291044",
+              "121.21455,31.291059"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "86c1ece1-5829-4379-a3e8-ba4edb86ecc2",
+            "venueName": "嘉定校区游泳馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/f6f43e7ddeab49649d882945303c55f1.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.28255,
+                "longitude": 121.50331
+              },
+              {
+                "latitude": 31.281807,
+                "longitude": 121.502979
+              },
+              {
+                "latitude": 31.281677,
+                "longitude": 121.503378
+              },
+              {
+                "latitude": 31.282348,
+                "longitude": 121.503883
+              },
+              {
+                "latitude": 31.282555,
+                "longitude": 121.503316
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.50331,31.28255",
+              "121.502979,31.281807",
+              "121.503378,31.281677",
+              "121.503883,31.282348",
+              "121.503316,31.282555"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "9c48495b-739b-42df-8dc9-0b1bc52028ba",
+            "venueName": "四平校区乒乓房",
+            "venueSportType": "乒乓球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/572001fa4e4642f3a06e8c283e74e03b.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.289191,
+                "longitude": 121.215426
+              },
+              {
+                "latitude": 31.288933,
+                "longitude": 121.215169
+              },
+              {
+                "latitude": 31.28863,
+                "longitude": 121.215607
+              },
+              {
+                "latitude": 31.288907,
+                "longitude": 121.215868
+              },
+              {
+                "latitude": 31.289174,
+                "longitude": 121.215529
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215426,31.289191",
+              "121.215169,31.288933",
+              "121.215607,31.288630",
+              "121.215868,31.288907",
+              "121.215529,31.289174"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": "22:00",
+            "openEndTimeStamp": 1780754400000,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00",
+              "21:00-22:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "22:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "68fb9c7fa1ee9a0473663350d2c38057d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": "09:00",
+            "openStartTimeStamp": 1780707600000,
+            "openType": "1",
+            "venueId": "d1d5f937-597b-4abb-9504-2bec6850ab31",
+            "venueName": "嘉定校区排球场",
+            "venueSportType": "排球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/97ce4a7ae13e4eb0aca18612925e651a.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.272809,
+                "longitude": 121.389004
+              },
+              {
+                "latitude": 31.272803,
+                "longitude": 121.389826
+              },
+              {
+                "latitude": 31.27245,
+                "longitude": 121.389908
+              },
+              {
+                "latitude": 31.27121,
+                "longitude": 121.390124
+              },
+              {
+                "latitude": 31.271076,
+                "longitude": 121.389597
+              },
+              {
+                "latitude": 31.271013,
+                "longitude": 121.388983
+              },
+              {
+                "latitude": 31.271514,
+                "longitude": 121.388874
+              },
+              {
+                "latitude": 31.272426,
+                "longitude": 121.388747
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389004,31.272809",
+              "121.389826,31.272803",
+              "121.389908,31.272450",
+              "121.390124,31.271210",
+              "121.389597,31.271076",
+              "121.388983,31.271013",
+              "121.388874,31.271514",
+              "121.388747,31.272426"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0",
+            "venueId": "606357ff-07ee-4388-ac1a-e98f714e0a6e",
+            "venueName": "沪西校区田径场",
+            "venueSportType": "足球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/ecb6945e76654e9f8cdeeac70bd2d239.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.281782,
+                "longitude": 121.502958
+              },
+              {
+                "latitude": 31.282004,
+                "longitude": 121.503068
+              },
+              {
+                "latitude": 31.282185,
+                "longitude": 121.502539
+              },
+              {
+                "latitude": 31.282002,
+                "longitude": 121.502452
+              },
+              {
+                "latitude": 31.281789,
+                "longitude": 121.502955
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.502958,31.281782",
+              "121.503068,31.282004",
+              "121.502539,31.282185",
+              "121.502452,31.282002",
+              "121.502955,31.281789"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "88d94c68-306f-46a1-8b7b-4c7092dbce95",
+            "venueName": "四平校区拳操房",
+            "venueSportType": "拳操",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/26b755a8786440ad96e740baf69dee40.PNG"
+          },
+          {
+            "campusName": "南校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.27968,
+                "longitude": 121.498686
+              },
+              {
+                "latitude": 31.280008,
+                "longitude": 121.498758
+              },
+              {
+                "latitude": 31.279812,
+                "longitude": 121.499364
+              },
+              {
+                "latitude": 31.279445,
+                "longitude": 121.499249
+              },
+              {
+                "latitude": 31.279655,
+                "longitude": 121.498661
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.498686,31.279680",
+              "121.498758,31.280008",
+              "121.499364,31.279812",
+              "121.499249,31.279445",
+              "121.498661,31.279655"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "12:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "027dc5cbdc92f708f9a9acbd827ce6e1d87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "e90e1596-927d-403f-9a96-d900c9dae566",
+            "venueName": "南校区体育馆二楼手球馆",
+            "venueSportType": "手球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-10/af01d3497f114a41b81f385ba2576e24.JPG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.291085,
+                "longitude": 121.214643
+              },
+              {
+                "latitude": 31.289579,
+                "longitude": 121.214662
+              },
+              {
+                "latitude": 31.289457,
+                "longitude": 121.216486
+              },
+              {
+                "latitude": 31.290906,
+                "longitude": 121.216602
+              },
+              {
+                "latitude": 31.29105,
+                "longitude": 121.21467
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214643,31.291085",
+              "121.214662,31.289579",
+              "121.216486,31.289457",
+              "121.216602,31.290906",
+              "121.21467,31.29105"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "8acee1b9-ef3f-4675-b043-8aaf4fd7cc34",
+            "venueName": "嘉定体育中心乒乓房",
+            "venueSportType": "乒乓球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/7e55561ab93f4dc6924fc52e5576b0f8.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.286549,
+                "longitude": 121.509829
+              },
+              {
+                "latitude": 31.28757,
+                "longitude": 121.5103
+              },
+              {
+                "latitude": 31.286841,
+                "longitude": 121.512307
+              },
+              {
+                "latitude": 31.285878,
+                "longitude": 121.511839
+              },
+              {
+                "latitude": 31.286541,
+                "longitude": 121.509839
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.509829,31.286549",
+              "121.510300,31.287570",
+              "121.512307,31.286841",
+              "121.511839,31.285878",
+              "121.509839,31.286541"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "4f4b299f-d10f-4065-aa9f-5fb167392281",
+            "venueName": "四平校区综合训练馆羽毛球馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/4e09d7676e9b411e9732a09374eb784a.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.273166,
+                "longitude": 121.389792
+              },
+              {
+                "latitude": 31.272405,
+                "longitude": 121.390028
+              },
+              {
+                "latitude": 31.272516,
+                "longitude": 121.390683
+              },
+              {
+                "latitude": 31.273274,
+                "longitude": 121.390449
+              },
+              {
+                "latitude": 31.273178,
+                "longitude": 121.389789
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389792,31.273166",
+              "121.390028,31.272405",
+              "121.390683,31.272516",
+              "121.390449,31.273274",
+              "121.389789,31.273178"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "a6137b38-f5a4-47e2-8e9f-be4a3ceabda9",
+            "venueName": "沪西校区网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/dadcf313c0804701a3a9c2771ffe350c.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.288953,
+                "longitude": 121.215273
+              },
+              {
+                "latitude": 31.28838,
+                "longitude": 121.214852
+              },
+              {
+                "latitude": 31.288132,
+                "longitude": 121.215211
+              },
+              {
+                "latitude": 31.288772,
+                "longitude": 121.215711
+              },
+              {
+                "latitude": 31.28898,
+                "longitude": 121.215266
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.215273,31.288953",
+              "121.214852,31.288380",
+              "121.215211,31.288132",
+              "121.215711,31.288772",
+              "121.215266,31.288980"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": "22:00",
+            "openEndTimeStamp": 1780754400000,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00",
+              "21:00-22:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "22:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "68fb9c7fa1ee9a0473663350d2c38057d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": "09:00",
+            "openStartTimeStamp": 1780707600000,
+            "openType": "1",
+            "venueId": "e77c9aa3-6a45-4409-b437-93a283775a88",
+            "venueName": "嘉定校区网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/fd33ad2409154327980555b5b96e98b1.PNG"
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.273165,
+                "longitude": 121.389807
+              },
+              {
+                "latitude": 31.272412,
+                "longitude": 121.39002
+              },
+              {
+                "latitude": 31.272529,
+                "longitude": 121.390706
+              },
+              {
+                "latitude": 31.273268,
+                "longitude": 121.390512
+              },
+              {
+                "latitude": 31.273172,
+                "longitude": 121.389805
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.389807,31.273165",
+              "121.39002,31.272412",
+              "121.390706,31.272529",
+              "121.390512,31.273268",
+              "121.389805,31.273172"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "22437380-2072-46e7-93d7-3dd6a40e36b3",
+            "venueName": "沪西校区篮球场",
+            "venueSportType": "篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/d5b8a7b0ae1a473cac0c69e65ce4a57c.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.286404,
+                "longitude": 121.209151
+              },
+              {
+                "latitude": 31.285897,
+                "longitude": 121.209879
+              },
+              {
+                "latitude": 31.286054,
+                "longitude": 121.210781
+              },
+              {
+                "latitude": 31.286429,
+                "longitude": 121.211554
+              },
+              {
+                "latitude": 31.286649,
+                "longitude": 121.211214
+              },
+              {
+                "latitude": 31.287219,
+                "longitude": 121.211664
+              },
+              {
+                "latitude": 31.287231,
+                "longitude": 121.210239
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.209151,31.286404",
+              "121.209879,31.285897",
+              "121.210781,31.286054",
+              "121.211554,31.286429",
+              "121.211214,31.286649",
+              "121.211664,31.287219",
+              "121.210239,31.287231"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "17:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "58be3752bcebdf562eabc109e93c8fa4d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "751d99b2-8024-4085-be9e-1ac7d698df83",
+            "venueName": "嘉定校区高尔夫",
+            "venueSportType": "高尔夫",
+            "venueUrl": ""
+          },
+          {
+            "campusName": "沪西校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.273155,
+                "longitude": 121.38978
+              },
+              {
+                "latitude": 31.272404,
+                "longitude": 121.390038
+              },
+              {
+                "latitude": 31.272524,
+                "longitude": 121.390712
+              },
+              {
+                "latitude": 31.273262,
+                "longitude": 121.390501
+              },
+              {
+                "latitude": 31.273165,
+                "longitude": 121.389781
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.38978,31.273155",
+              "121.390038,31.272404",
+              "121.390712,31.272524",
+              "121.390501,31.273262",
+              "121.389781,31.273165"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "6ecdcd05-2e46-4502-9706-d7f77cf7ebe0",
+            "venueName": "沪西校区排球场",
+            "venueSportType": "排球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/95b174ebb7804f4eb6da3c0dd2983ec9.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.289577,
+                "longitude": 121.216345
+              },
+              {
+                "latitude": 31.289425,
+                "longitude": 121.216804
+              },
+              {
+                "latitude": 31.289526,
+                "longitude": 121.21733
+              },
+              {
+                "latitude": 31.290777,
+                "longitude": 121.217414
+              },
+              {
+                "latitude": 31.290964,
+                "longitude": 121.216927
+              },
+              {
+                "latitude": 31.290845,
+                "longitude": 121.216441
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.216345,31.289577",
+              "121.216804,31.289425",
+              "121.217330,31.289526",
+              "121.217414,31.290777",
+              "121.216927,31.290964",
+              "121.216441,31.290845"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [],
+            "openRunTimeListNew": null,
+            "openRunTimeListNewEncryptstr": "0436012e2cd9602b5e219349c46d1b13",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "0",
+            "venueId": "dce0a68b-f2b3-4b62-be13-beb2f42f3861",
+            "venueName": "嘉定校区体育中心天然草坪田径场",
+            "venueSportType": "田径",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-04/108cd2a90c6847f1951a6a9c8a0f5c05.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.282529,
+                "longitude": 121.503327
+              },
+              {
+                "latitude": 31.281841,
+                "longitude": 121.503017
+              },
+              {
+                "latitude": 31.28173,
+                "longitude": 121.503382
+              },
+              {
+                "latitude": 31.28183,
+                "longitude": 121.503467
+              },
+              {
+                "latitude": 31.28188,
+                "longitude": 121.503562
+              },
+              {
+                "latitude": 31.282419,
+                "longitude": 121.503852
+              },
+              {
+                "latitude": 31.282637,
+                "longitude": 121.503362
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.503327,31.282529",
+              "121.503017,31.281841",
+              "121.503382,31.28173",
+              "121.503467,31.28183",
+              "121.503562,31.28188",
+              "121.503852,31.282419",
+              "121.503362,31.282637"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "4ac275e4-d41a-4fc2-852b-f3a3383d80d1",
+            "venueName": "四平校区攀岩馆",
+            "venueSportType": "攀岩,羽毛球,健身",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/c64bdd5c9ecd410fb423da17dad18639.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.29109,
+                "longitude": 121.214824
+              },
+              {
+                "latitude": 31.289468,
+                "longitude": 121.214641
+              },
+              {
+                "latitude": 31.289265,
+                "longitude": 121.216568
+              },
+              {
+                "latitude": 31.29101,
+                "longitude": 121.216617
+              },
+              {
+                "latitude": 31.291086,
+                "longitude": 121.214801
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214824,31.29109",
+              "121.214641,31.289468",
+              "121.216568,31.289265",
+              "121.216617,31.29101",
+              "121.214801,31.291086"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "c7018ac0-af1f-4eb9-8f42-29156770a09c",
+            "venueName": "嘉定体育中心羽毛球馆",
+            "venueSportType": "羽毛球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/22554346d7d24d4f902005412cacba77.PNG"
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.286806,
+                "longitude": 121.20802
+              },
+              {
+                "latitude": 31.286942,
+                "longitude": 121.208265
+              },
+              {
+                "latitude": 31.286716,
+                "longitude": 121.208555
+              },
+              {
+                "latitude": 31.286519,
+                "longitude": 121.208281
+              },
+              {
+                "latitude": 31.286428,
+                "longitude": 121.208135
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.208020,31.286806",
+              "121.208265,31.286942",
+              "121.208555,31.286716",
+              "121.208281,31.286519",
+              "121.208135,31.286428"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "05:00-06:00",
+              "06:00-07:00",
+              "07:00-08:00",
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "20:00",
+                "startTime": "05:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "5aef98c3f1324921a9b721fca879174ed87818d315ce2100c7c7d657d3a273b998573f512c1d2832ffb56b7c3ee73b6e",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "86074c5b-584d-4823-b22e-a74375436907",
+            "venueName": "嘉定校区世联行赛艇会",
+            "venueSportType": "体质测试,赛艇",
+            "venueUrl": ""
+          },
+          {
+            "campusName": "嘉定校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.288127,
+                "longitude": 121.214452
+              },
+              {
+                "latitude": 31.287434,
+                "longitude": 121.213754
+              },
+              {
+                "latitude": 31.28672,
+                "longitude": 121.214942
+              },
+              {
+                "latitude": 31.28751,
+                "longitude": 121.21558
+              },
+              {
+                "latitude": 31.288011,
+                "longitude": 121.214803
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.214452,31.288127",
+              "121.213754,31.287434",
+              "121.214942,31.286720",
+              "121.215580,31.287510",
+              "121.214803,31.288011"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": "22:00",
+            "openEndTimeStamp": 1780754400000,
+            "openRunTimeList": [
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00",
+              "21:00-22:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "22:00",
+                "startTime": "09:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "68fb9c7fa1ee9a0473663350d2c38057d87818d315ce2100c7c7d657d3a273b96eb62cf20c8472a4f494070df37b3e00",
+            "openStartTime": "09:00",
+            "openStartTimeStamp": 1780707600000,
+            "openType": "1",
+            "venueId": "81b3632b-8f91-4c97-b46d-3847ca35977e",
+            "venueName": "嘉定校区篮球场",
+            "venueSportType": "篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/61029ac51f3a4bd7b15576b8118f4e7a.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.283259,
+                "longitude": 121.50167
+              },
+              {
+                "latitude": 31.283696,
+                "longitude": 121.500547
+              },
+              {
+                "latitude": 31.282734,
+                "longitude": 121.500046
+              },
+              {
+                "latitude": 31.282313,
+                "longitude": 121.501122
+              },
+              {
+                "latitude": 31.283265,
+                "longitude": 121.501655
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.50167,31.283259",
+              "121.500547,31.283696",
+              "121.500046,31.282734",
+              "121.501122,31.282313",
+              "121.501655,31.283265"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "496d967d-aca7-4eb7-a3c6-142f40b100b7",
+            "venueName": "四平校区爱校路足球场",
+            "venueSportType": "足球,篮球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/6ba900a94513453fb318e43957cd5313.PNG"
+          },
+          {
+            "campusName": "四平校区",
+            "coordinateEntityList": [
+              {
+                "latitude": 31.282432,
+                "longitude": 121.50371
+              },
+              {
+                "latitude": 31.281799,
+                "longitude": 121.503433
+              },
+              {
+                "latitude": 31.281673,
+                "longitude": 121.503763
+              },
+              {
+                "latitude": 31.28229,
+                "longitude": 121.504088
+              },
+              {
+                "latitude": 31.282433,
+                "longitude": 121.503711
+              }
+            ],
+            "daySignOnceSignTime": "30分钟及以上，每天1次",
+            "locationList": [
+              "121.50371,31.282432",
+              "121.503433,31.281799",
+              "121.503763,31.281673",
+              "121.504088,31.28229",
+              "121.503711,31.282433"
+            ],
+            "minDistance": 20038001.0,
+            "open": false,
+            "openEndTime": null,
+            "openEndTimeStamp": 0,
+            "openRunTimeList": [
+              "08:00-09:00",
+              "09:00-10:00",
+              "10:00-11:00",
+              "11:00-12:00",
+              "12:00-13:00",
+              "13:00-14:00",
+              "14:00-15:00",
+              "15:00-16:00",
+              "16:00-17:00",
+              "17:00-18:00",
+              "18:00-19:00",
+              "19:00-20:00",
+              "20:00-21:00"
+            ],
+            "openRunTimeListNew": [
+              {
+                "endTime": "21:00",
+                "startTime": "08:00"
+              }
+            ],
+            "openRunTimeListNewEncryptstr": "624ae185ff0541b9eb7d1abea4fbd70cd87818d315ce2100c7c7d657d3a273b93e789e0ef5d1022b370b01d8788f108b",
+            "openStartTime": null,
+            "openStartTimeStamp": 0,
+            "openType": "1",
+            "venueId": "c02cc386-e37e-4b20-beb2-e3244b49f26f",
+            "venueName": "四平校区南大道网球场",
+            "venueSportType": "网球",
+            "venueUrl": "https://ty.tongji.edu.cn/tjSmartSports/2025-03/aeed34796c6c46c88bdb7280589cf5e6.PNG"
+          }
+        ],
+        "weekName": "星期日"
+      },
+      {
+        "remark": "锻炼打卡不在学期范围内",
+        "runningPointList": [],
+        "weekName": "星期一"
+      }
+    ],
+    "msg": "OK"
+  }
+}
