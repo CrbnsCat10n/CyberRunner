@@ -19,11 +19,13 @@ chrono = { version = "0.4", features = ["serde"] }
 clap = { version = "4", features = ["derive"] }
 eframe = { version = "0.34", default-features = true }
 egui = "0.34"
+fontdb = "0.23"
 md5 = "0.7"
 reqwest = { version = "0.12", default-features = false, features = ["blocking", "gzip", "deflate", "json", "rustls-tls"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = { version = "1", features = ["preserve_order"] }
 thiserror = "2"
+ttf-parser = "0.25"
 url = "2"
 walkers = "0.53"
 

@@ -267,4 +267,3 @@ semesterId = 121 + (start_year - 2025) * 2 + (term - 2)
 - The generated request coordinates are not converted for the map; conversion is only used for CARTO display alignment.
 - GUI-only behavior includes visual map display, theme-based map source selection, and form conveniences such as sex/semester selectors.
 - CLI-only behavior includes writing directly to stdout and shell-friendly automation.
-
