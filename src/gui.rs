@@ -1,5 +1,4 @@
 use std::{
-    fs,
     path::PathBuf,
     sync::{
         atomic::{AtomicBool, Ordering},
@@ -47,31 +46,15 @@ pub fn run_gui() -> Result<()> {
 }
 
 fn install_cjk_fonts(ctx: &egui::Context) {
-    let candidates = [
-        "/System/Library/Fonts/Supplemental/Heiti SC.ttc",
-        "/System/Library/Fonts/STHeiti Medium.ttc",
-        "/System/Library/Fonts/STHeiti Light.ttc",
-        "/System/Library/Fonts/PingFang.ttc",
-        "/System/Library/Fonts/Supplemental/Songti.ttc",
-        "/Library/Fonts/Arial Unicode.ttf",
-        "C:/Windows/Fonts/simhei.ttf",
-        "C:/Windows/Fonts/msyh.ttc",
-        "C:/Windows/Fonts/simsun.ttc",
-        "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
-        "/usr/share/fonts/truetype/noto/NotoSansCJK-Regular.ttc",
-        "/usr/share/fonts/truetype/wqy/wqy-microhei.ttc",
-    ];
-    let Some((path, bytes)) = candidates
-        .iter()
-        .find_map(|path| fs::read(path).ok().map(|bytes| (*path, bytes)))
-    else {
+    let Some(font) = load_system_cjk_font().or_else(load_embedded_cjk_font) else {
+        eprintln!("No CJK-capable font found; using egui default fonts.");
         return;
     };
 
     let mut fonts = egui::FontDefinitions::default();
     fonts.font_data.insert(
         "cjk".to_owned(),
-        Arc::new(egui::FontData::from_owned(bytes)),
+        Arc::new(egui::FontData::from_owned(font.bytes)),
     );
     for family in [egui::FontFamily::Proportional, egui::FontFamily::Monospace] {
         fonts
@@ -81,7 +64,150 @@ fn install_cjk_fonts(ctx: &egui::Context) {
             .insert(0, "cjk".to_owned());
     }
     ctx.set_fonts(fonts);
-    eprintln!("Loaded CJK font: {path}");
+    eprintln!("Loaded CJK font: {}", font.label);
+}
+
+struct LoadedFont {
+    label: String,
+    bytes: Vec<u8>,
+}
+
+const FONT_SAMPLE_CHARS: &[char] = &[
+    'A', 'z', '0', '中', '文', '跑', '步', '场', '地', '请', '求', '回', '应', '登', '录', '学',
+    '期',
+];
+
+const PREFERRED_CJK_FAMILIES: &[&str] = &[
+    "Heiti SC",
+    "SimHei",
+    "PingFang SC",
+    "Microsoft YaHei",
+    "Noto Sans CJK SC",
+    "Source Han Sans SC",
+    "WenQuanYi Micro Hei",
+    "Arial Unicode MS",
+    "Songti SC",
+    "STHeiti",
+    "Noto Sans SC",
+];
+
+fn load_system_cjk_font() -> Option<LoadedFont> {
+    let mut db = fontdb::Database::new();
+    db.load_system_fonts();
+
+    let mut best: Option<(i32, fontdb::ID, String)> = None;
+    for face in db.faces() {
+        if !face_supports_required_chars(&db, face.id) {
+            continue;
+        }
+
+        let score = face_score(face);
+        let label = face_label(face);
+        let should_replace = match &best {
+            Some((best_score, _, _)) => score < *best_score,
+            None => true,
+        };
+        if should_replace {
+            best = Some((score, face.id, label));
+        }
+    }
+
+    let (_, id, label) = best?;
+    db.with_face_data(id, |data, _| LoadedFont {
+        label: format!("system: {label}"),
+        bytes: data.to_vec(),
+    })
+}
+
+fn face_supports_required_chars(db: &fontdb::Database, id: fontdb::ID) -> bool {
+    db.with_face_data(id, |data, face_index| {
+        ttf_parser::Face::parse(data, face_index)
+            .map(|face| {
+                FONT_SAMPLE_CHARS
+                    .iter()
+                    .all(|ch| face.glyph_index(*ch).is_some())
+            })
+            .unwrap_or(false)
+    })
+    .unwrap_or(false)
+}
+
+fn face_score(face: &fontdb::FaceInfo) -> i32 {
+    let family_score = face_family_priority(face).unwrap_or(1_000);
+    let style_penalty = if face.style == fontdb::Style::Normal {
+        0
+    } else {
+        200
+    };
+    let weight_penalty = (i32::from(face.weight.0) - i32::from(fontdb::Weight::NORMAL.0)).abs();
+    let monospace_penalty = if face.monospaced { 100 } else { 0 };
+
+    family_score * 1_000 + style_penalty + weight_penalty + monospace_penalty
+}
+
+fn face_family_priority(face: &fontdb::FaceInfo) -> Option<i32> {
+    face.families.iter().find_map(|(family, _)| {
+        PREFERRED_CJK_FAMILIES
+            .iter()
+            .position(|preferred| family.eq_ignore_ascii_case(preferred))
+            .map(|index| index as i32)
+    })
+}
+
+fn face_label(face: &fontdb::FaceInfo) -> String {
+    face.families
+        .first()
+        .map(|(family, _)| family.clone())
+        .filter(|family| !family.is_empty())
+        .unwrap_or_else(|| face.post_script_name.clone())
+}
+
+fn load_embedded_cjk_font() -> Option<LoadedFont> {
+    embedded_cjk_font_bytes().and_then(|bytes| {
+        if font_bytes_support_required_chars(bytes) {
+            Some(LoadedFont {
+                label: "embedded: CyberRunnerFallbackCJK.otf".to_owned(),
+                bytes: bytes.to_vec(),
+            })
+        } else {
+            eprintln!("Embedded CJK fallback font exists but does not cover required characters.");
+            None
+        }
+    })
+}
+
+fn font_bytes_support_required_chars(bytes: &[u8]) -> bool {
+    ttf_parser::Face::parse(bytes, 0)
+        .map(|face| {
+            FONT_SAMPLE_CHARS
+                .iter()
+                .all(|ch| face.glyph_index(*ch).is_some())
+        })
+        .unwrap_or(false)
+}
+
+#[cfg(cyber_runner_embedded_cjk_font)]
+fn embedded_cjk_font_bytes() -> Option<&'static [u8]> {
+    Some(include_bytes!("../assets/fonts/CyberRunnerFallbackCJK.otf"))
+}
+
+#[cfg(not(cyber_runner_embedded_cjk_font))]
+fn embedded_cjk_font_bytes() -> Option<&'static [u8]> {
+    None
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn embedded_cjk_font_covers_required_chars() {
+        let Some(bytes) = embedded_cjk_font_bytes() else {
+            panic!("embedded CJK font is missing");
+        };
+
+        assert!(font_bytes_support_required_chars(bytes));
+    }
 }
 
 #[derive(Clone, Copy, Debug)]
